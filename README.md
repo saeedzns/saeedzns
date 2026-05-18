@@ -1,28 +1,29 @@
-<h1 align="center">Hi, I'm Saeedzns</h1>
-<p align="center">
-  <strong>Building thoughtful software with clean architecture, sharp UX, and reliable delivery.</strong>
-</p>
+<div align="center">
+  <h1>Hi, I'm Saeedzns</h1>
+  <p><strong>Building clean, modern software with product thinking, strong fundamentals, and a sharp eye for detail.</strong></p>
 
-<p align="center">
-  <a href="https://github.com/Saeedzns">
-    <img src="https://img.shields.io/badge/GitHub-Saeedzns-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  </a>
-</p>
-
----
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Saeedzns&style=flat-square&color=0f172a" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/Saeedzns?label=Followers&style=flat-square&color=0f172a&labelColor=111827" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Product-0f172a?style=flat-square" alt="Focus badge" />
+  </p>
+</div>
 
 ## About Me
 
-I’m a developer focused on building practical, polished digital experiences. I care about code quality, clear product thinking, and shipping work that feels solid in production.
+I am a developer focused on building practical digital products that feel polished, reliable, and intentional. I care about architecture, user experience, performance, and code that is easy to maintain months after launch.
 
-- Currently working on modern web and software projects
-- Interested in scalable systems, clean UI, and maintainable code
-- Open to collaboration on meaningful products and open-source work
-- Always learning better ways to design, build, and deliver
+- I like shipping work that balances product value with technical quality
+- I care about readable code, clean interfaces, and sustainable development
+- I enjoy modern web development, API design, and scalable system thinking
+- I value collaboration, clarity, and continuous improvement
 
-## Contact
+## Current Focus
 
-If you'd like to connect, feel free to reach out through GitHub.
+- Designing and building modern web applications
+- Improving developer experience and system reliability
+- Creating interfaces that are fast, clear, and production-ready
+- Strengthening full-stack architecture and maintainability
 
 ## Tech Stack
 
@@ -30,38 +31,41 @@ If you'd like to connect, feel free to reach out through GitHub.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
 </p>
 
 ## What I Value
 
-- Clean, readable code
-- Strong fundamentals over shortcuts
-- Product thinking with technical discipline
-- Consistency, performance, and maintainability
+- Clean, readable code that scales with the project
+- Strong fundamentals instead of shortcuts
+- Product-first thinking backed by technical discipline
+- Performance, usability, and consistency
 
-## GitHub Stats
+## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saeedzns&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saeedzns&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedzns&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedzns&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Saeedzns&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</div>
 
-## Current Focus
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saeedzns&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+</div>
 
-```text
-- Building better developer experiences
-- Designing reliable full-stack systems
-- Shipping cleaner, faster, more intentional products
-```
+## Contact
+
+If you'd like to connect, feel free to reach out through GitHub.
 
 ---
 
-<p align="center">
+<div align="center">
   <i>Let’s build something useful.</i>
-</p>
+</div>
