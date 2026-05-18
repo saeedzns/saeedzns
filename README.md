@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<!-- Badges inspired by Thomas-George-T -->
+![License](https://img.shields.io/github/license/saeedzns/saeedzns?style=flat)
+![ViewCount](https://komarev.com/ghpvc/?username=Saeedzns&style=flat)
+
 <div align="center">
   <a href="https://saeedzns.github.io" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:0.95rem 1.4rem;border-radius:999px;border:1px solid rgba(148,163,184,0.24);background:linear-gradient(135deg,#0f172a 0%,#111827 52%,#0b1220 100%);color:#f8fafc;text-decoration:none;box-shadow:0 18px 42px rgba(15,23,42,0.34);">
     <span style="display:block;font-size:0.76rem;letter-spacing:0.22em;text-transform:uppercase;color:#38bdf8;font-weight:800;">Portfolio Website</span>
@@ -6,7 +10,15 @@
     <span style="display:block;margin-top:0.2rem;font-size:0.82rem;color:#cbd5e1;">Recruiter-friendly portfolio with data science, BI, and applied AI focus</span>
   </a>
   <h1>Hi, I'm Saeed Zohoorian</h1>
-  <p><strong>Data Science graduate from Sapienza University of Rome, focused on BI automation, reporting pipelines, machine learning, and computer vision.</strong></p>
+    <p><strong>Data Science graduate from Sapienza University of Rome, focused on BI automation, reporting pipelines, machine learning, and computer vision.</strong></p>
+
+    ### Hi there 👋 I'm Saeed Zohoorian,
+
+    A Data Scientist passionate about applied machine learning, computer vision, and building reproducible data systems. I like automating reporting, deploying demos, and turning research into usable tools.
+
+    - ⚡ Fun fact: my MSc thesis is Ego4D-LiteSTA (egocentric interaction anticipation).
+    - :bulb: I'm interested in Computer Vision, Bayesian modeling, Information Retrieval, and BI automation.
+    - 💬 Talk to me about egocentric vision, Streamlit/Gradio demos, Bayesian stats, or reproducible pipelines.
   <p>
     <img src="https://komarev.com/ghpvc/?username=Saeedzns&style=flat-square&color=0f172a" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/Saeedzns?label=Followers&style=flat-square&color=0f172a&labelColor=111827" alt="GitHub followers" />
@@ -51,6 +63,21 @@ I like building systems that make reporting easier, decision-making clearer, and
 </div>
 
 ## Skills & Expertise
+
+### My skills include
+
+<p align="center">
+  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" width="48" height="48" style="margin:6px"/>
+  <img title="PyTorch" alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" style="margin:6px"/>
+  <img title="TensorFlow" alt="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" style="margin:6px"/>
+  <img title="JAX" alt="JAX" src="https://skillicons.dev/icons?i=jax" width="48" height="48" style="margin:6px"/>
+  <img title="Postgres" alt="Postgres" src="https://skillicons.dev/icons?i=postgres" width="48" height="48" style="margin:6px"/>
+  <img title="PowerBI" alt="PowerBI" src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" style="margin:6px"/>
+  <img title="Streamlit" alt="Streamlit" src="https://skillicons.dev/icons?i=streamlit" width="48" height="48" style="margin:6px"/>
+  <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker" width="48" height="48" style="margin:6px"/>
+  <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws" width="48" height="48" style="margin:6px"/>
+  <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" width="48" height="48" style="margin:6px"/>
+</p>
 
 ### Data Science & ML
 
