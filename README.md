@@ -1,4 +1,6 @@
 <div align="center">
+  <a href="https://saeedzns.github.io" target="_blank" rel="noopener noreferrer">saeedzns.github.io</a>
+  <br />
   <img src="https://img.shields.io/badge/Saeedzns-Portfolio%20README-0f172a?style=for-the-badge&labelColor=111827" alt="Profile title badge" />
   <h1>Hi, I'm Saeed Zohoorian</h1>
   <p><strong>Data Science graduate from Sapienza University of Rome, focused on BI automation, reporting pipelines, machine learning, and computer vision.</strong></p>
@@ -49,18 +51,36 @@ I build practical data systems across data analysis, data engineering foundation
 
 ## Tech Stack
 
+### Libraries & Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=ffffff" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=ffffff" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/JAX-0073E6?style=flat-square&logo=jax&logoColor=ffffff" alt="JAX" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=ffffff" alt="PySpark" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=ffffff" alt="Excel" />
   <img src="https://img.shields.io/badge/VBA-5C2D91?style=flat-square&logo=microsoft&logoColor=ffffff" alt="VBA" />
   <img src="https://img.shields.io/badge/IBM_Impromptu-0F172A?style=flat-square" alt="IBM Impromptu" />
   <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=ffffff" alt="Microsoft Access" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=ffffff" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=ffffff" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/CNNs-0F172A?style=flat-square" alt="CNNs" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-0F172A?style=flat-square" alt="Web Scraping" />
 </p>
 
 ## Detailed Statistics
@@ -94,6 +114,16 @@ I build practical data systems across data analysis, data engineering foundation
 - Data Analyst experience at Allianz Trade in reporting, automation, and support for business decision-making
 - Practical work across BI dashboards, reporting pipelines, and reusable analytics workflows
 - Interest in computer vision, Bayesian modeling, information retrieval, and applied ML demos
+
+## Skills Snapshot
+
+- Business Intelligence & Automation: Power BI, IBM Cognos Impromptu, VBA, Automated Reporting
+- Productivity Tools: Microsoft Excel, Microsoft Access, Microsoft PowerPoint, Microsoft Word
+- Data & Databases: SQL, PostgreSQL, Neo4j, Web Scraping
+- Programming & Machine Learning: Python, PyTorch, TensorFlow, Keras, scikit-learn, JAX, NumPy, Pandas, PySpark
+- Computer Vision & Deep Learning: Computer Vision, Image Classification, Semantic Segmentation, Object Detection, Egocentric Vision, CNNs, Transfer Learning
+- Statistical & Probabilistic Modeling: Bayesian Inference, Ordinal Regression, Probabilistic Modeling, Model Calibration
+- Cloud & Tools: AWS, Git, GitHub
 
 ## Contact
 
