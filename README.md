@@ -1,7 +1,9 @@
 <div align="center">
-  <a href="https://saeedzns.github.io" target="_blank" rel="noopener noreferrer">saeedzns.github.io</a>
-  <br />
-  <img src="https://img.shields.io/badge/Saeedzns-Portfolio%20README-0f172a?style=for-the-badge&labelColor=111827" alt="Profile title badge" />
+  <a href="https://saeedzns.github.io" target="_blank" rel="noopener noreferrer" style="display:inline-block;padding:0.95rem 1.35rem;border-radius:999px;border:1px solid rgba(148,163,184,0.25);background:linear-gradient(135deg,#0f172a 0%,#111827 55%,#0b1220 100%);color:#f8fafc;text-decoration:none;box-shadow:0 18px 40px rgba(15,23,42,0.32);">
+    <span style="display:block;font-size:0.78rem;letter-spacing:0.22em;text-transform:uppercase;color:#38bdf8;font-weight:800;">Portfolio Website</span>
+    <span style="display:block;margin-top:0.25rem;font-size:1rem;font-weight:800;letter-spacing:-0.02em;">saeedzns.github.io</span>
+    <span style="display:block;margin-top:0.2rem;font-size:0.84rem;color:#cbd5e1;">Recruiter-friendly portfolio with data science, BI, and applied AI focus</span>
+  </a>
   <h1>Hi, I'm Saeed Zohoorian</h1>
   <p><strong>Data Science graduate from Sapienza University of Rome, focused on BI automation, reporting pipelines, machine learning, and computer vision.</strong></p>
   <p>
@@ -16,19 +18,53 @@
 
 > Applied AI for real-world systems.
 
-- Data analysis and BI automation with Python, SQL, Power BI, Excel, VBA, IBM Impromptu, and Microsoft Access
-- Reporting pipelines and reusable workflows that reduce manual effort and improve clarity
-- Applied machine learning, Bayesian modeling, and information retrieval
-- Computer vision and egocentric interaction understanding for practical AI systems
+<table>
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">Focus</th>
+  </tr>
+  <tr>
+    <td>BI & Automation</td>
+    <td>Python, SQL, Power BI, Excel, VBA, IBM Impromptu, Microsoft Access</td>
+  </tr>
+  <tr>
+    <td>Reporting</td>
+    <td>Reusable dashboards, reporting pipelines, and workflow automation</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Bayesian modeling, information retrieval, and reproducible experimentation</td>
+  </tr>
+  <tr>
+    <td>Computer Vision</td>
+    <td>Egocentric interaction understanding and applied vision workflows</td>
+  </tr>
+</table>
 
 ## Highlights
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst%20Experience-38bdf8?style=flat-square" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-BI%20Automation-818cf8?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/Track-Data%20Engineering%20Foundations-22d3ee?style=flat-square" alt="Data engineering" />
-  <img src="https://img.shields.io/badge/Track-Applied%20ML%20%26%20CV-0f172a?style=flat-square" alt="Applied ML" />
-</div>
+<table>
+  <tr>
+    <th align="left">Highlight</th>
+    <th align="left">Detail</th>
+  </tr>
+  <tr>
+    <td>Professional Experience</td>
+    <td>Data Analyst at Allianz Trade</td>
+  </tr>
+  <tr>
+    <td>Efficiency Impact</td>
+    <td>Reporting workflows improved by 20%</td>
+  </tr>
+  <tr>
+    <td>Education</td>
+    <td>MSc Data Science, Sapienza University of Rome</td>
+  </tr>
+  <tr>
+    <td>Research Direction</td>
+    <td>Applied ML, CV, Bayesian modeling, and data systems</td>
+  </tr>
+</table>
 
 ## About
 
@@ -38,50 +74,80 @@ I build practical data systems across data analysis, data engineering foundation
 
 ## Current Focus
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-Python%20%2F%20SQL-111827?style=for-the-badge&logo=python&logoColor=ffffff" alt="Data analysis focus" />
-  <img src="https://img.shields.io/badge/BI-Reporting%20%26%20Dashboards-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="BI focus" />
-  <img src="https://img.shields.io/badge/AI-ML%20%2F%20Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="AI focus" />
-</div>
-
-- Building dashboards, reporting pipelines, and workflow automation
-- Strengthening skills in data engineering, applied machine learning, and computer vision
-- Developing reproducible analytical workflows and practical AI demos
-- Communicating results clearly through data, visuals, and concise documentation
+<table>
+  <tr>
+    <th align="left">Focus</th>
+    <th align="left">What I’m building</th>
+  </tr>
+  <tr>
+    <td>Data Analysis</td>
+    <td>Python and SQL workflows for structured, reproducible analysis</td>
+  </tr>
+  <tr>
+    <td>BI</td>
+    <td>Reporting systems, dashboards, and automation for decision support</td>
+  </tr>
+  <tr>
+    <td>Applied AI</td>
+    <td>Computer vision, Bayesian modeling, and practical ML demos</td>
+  </tr>
+  <tr>
+    <td>Communication</td>
+    <td>Clear visuals, concise documentation, and recruiter-friendly presentation</td>
+  </tr>
+</table>
 
 ## Tech Stack
 
 ### Libraries & Frameworks
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=ffffff" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=ffffff" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/JAX-0073E6?style=flat-square&logo=jax&logoColor=ffffff" alt="JAX" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=ffffff" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=ffffff" alt="Excel" />
-  <img src="https://img.shields.io/badge/VBA-5C2D91?style=flat-square&logo=microsoft&logoColor=ffffff" alt="VBA" />
-  <img src="https://img.shields.io/badge/IBM_Impromptu-0F172A?style=flat-square" alt="IBM Impromptu" />
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=ffffff" alt="Microsoft Access" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=ffffff" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=ffffff" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/CNNs-0F172A?style=flat-square" alt="CNNs" />
-</p>
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Libraries / Tools</th>
+  </tr>
+  <tr>
+    <td>Programming & ML</td>
+    <td>Python, PyTorch, TensorFlow, Keras, scikit-learn, JAX, NumPy, Pandas, PySpark</td>
+  </tr>
+  <tr>
+    <td>BI & Productivity</td>
+    <td>Power BI, Excel, VBA, IBM Impromptu, Microsoft Access</td>
+  </tr>
+  <tr>
+    <td>Data & Databases</td>
+    <td>SQL, PostgreSQL, Neo4j, Web Scraping</td>
+  </tr>
+  <tr>
+    <td>Vision & Modeling</td>
+    <td>OpenCV, CNNs, Computer Vision, Bayesian Inference, Ordinal Regression</td>
+  </tr>
+</table>
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-0F172A?style=flat-square" alt="Web Scraping" />
-</p>
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Tools / Platforms</th>
+  </tr>
+  <tr>
+    <td>Cloud</td>
+    <td>AWS</td>
+  </tr>
+  <tr>
+    <td>Version Control</td>
+    <td>Git, GitHub</td>
+  </tr>
+  <tr>
+    <td>Automation</td>
+    <td>Reporting workflows, dashboards, and repeatable analysis pipelines</td>
+  </tr>
+  <tr>
+    <td>Research Direction</td>
+    <td>Applied AI for real-world systems</td>
+  </tr>
+</table>
 
 ## Detailed Statistics
 
