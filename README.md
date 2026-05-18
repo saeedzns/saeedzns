@@ -1,71 +1,73 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Saeedzns-Portfolio%20README-0f172a?style=for-the-badge&labelColor=111827" alt="Profile title badge" />
-  <h1>Hi, I'm Saeedzns</h1>
-  <p><strong>Building modern software with a dark technical aesthetic, product thinking, and strong execution.</strong></p>
+  <h1>Hi, I'm Saeed Zohoorian</h1>
+  <p><strong>Data Science graduate from Sapienza University of Rome, focused on BI automation, reporting pipelines, machine learning, and computer vision.</strong></p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Saeedzns&style=flat-square&color=0f172a" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/Saeedzns?label=Followers&style=flat-square&color=0f172a&labelColor=111827" alt="GitHub followers" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Product-0f172a?style=flat-square" alt="Focus badge" />
-    <img src="https://img.shields.io/badge/Build-Ship%20%26%20Improve-0f172a?style=flat-square" alt="Build badge" />
+    <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20BI%20Automation-0f172a?style=flat-square" alt="Focus badge" />
+    <img src="https://img.shields.io/badge/Build-AI%20%26%20Real%20World%20Systems-0f172a?style=flat-square" alt="Build badge" />
   </p>
 </div>
 
 ## Portfolio Focus
 
-> Applied software for real-world systems.
+> Applied AI for real-world systems.
 
-- Product-focused full-stack development with an emphasis on clarity and maintainability
-- Clean interfaces, dependable architecture, and production-ready execution
-- Modern JavaScript and TypeScript ecosystems with practical tooling and workflows
-- Data-aware engineering that values performance, reliability, and measurable results
+- Data analysis and BI automation with Python, SQL, Power BI, Excel, VBA, IBM Impromptu, and Microsoft Access
+- Reporting pipelines and reusable workflows that reduce manual effort and improve clarity
+- Applied machine learning, Bayesian modeling, and information retrieval
+- Computer vision and egocentric interaction understanding for practical AI systems
 
 ## Highlights
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Approach-Product%20First-38bdf8?style=flat-square" alt="Approach" />
-  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-818cf8?style=flat-square" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Style-Modern%20Dark%20UI-22d3ee?style=flat-square" alt="Style" />
-  <img src="https://img.shields.io/badge/Delivery-Reliable%20and%20Clear-0f172a?style=flat-square" alt="Delivery" />
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst%20Experience-38bdf8?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-BI%20Automation-818cf8?style=flat-square" alt="Automation" />
+  <img src="https://img.shields.io/badge/Track-Data%20Engineering%20Foundations-22d3ee?style=flat-square" alt="Data engineering" />
+  <img src="https://img.shields.io/badge/Track-Applied%20ML%20%26%20CV-0f172a?style=flat-square" alt="Applied ML" />
 </div>
 
 ## About
 
-I build practical digital products that balance sharp design with solid engineering. My work is guided by the same principles as my portfolio site: strong structure, focused messaging, and a professional presentation that makes technical capability easy to understand.
+I am a Sapienza University Data Science graduate based in Rome with professional experience as a Data Analyst at Allianz Trade. My work combines BI automation, reporting workflows, dashboard development, and decision support using Python, SQL, Power BI, Excel, VBA, IBM Impromptu, and Microsoft Access.
 
-I care about systems that are easy to extend, interfaces that are easy to use, and code that remains readable after the first release. Whether I am working on web applications, APIs, or data-informed features, I aim to keep the implementation disciplined and the user experience clear.
+I build practical data systems across data analysis, data engineering foundations, applied machine learning, computer vision, and AI-powered automation. I prefer clean structure, reproducible workflows, and results that are easy to explain to both technical and non-technical audiences.
 
 ## Current Focus
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%2F%20Next.js-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend focus" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20APIs-111827?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Backend focus" />
-  <img src="https://img.shields.io/badge/Data-Python%20%2F%20SQL-111827?style=for-the-badge&logo=python&logoColor=ffffff" alt="Data focus" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Python%20%2F%20SQL-111827?style=for-the-badge&logo=python&logoColor=ffffff" alt="Data analysis focus" />
+  <img src="https://img.shields.io/badge/BI-Reporting%20%26%20Dashboards-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="BI focus" />
+  <img src="https://img.shields.io/badge/AI-ML%20%2F%20Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="AI focus" />
 </div>
 
-- Designing and building modern web applications
-- Improving developer experience and long-term maintainability
-- Creating fast, clear, and production-ready interfaces
-- Strengthening architecture across frontend, backend, and data layers
+- Building dashboards, reporting pipelines, and workflow automation
+- Strengthening skills in data engineering, applied machine learning, and computer vision
+- Developing reproducible analytical workflows and practical AI demos
+- Communicating results clearly through data, visuals, and concise documentation
 
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=ffffff" alt="Excel" />
+  <img src="https://img.shields.io/badge/VBA-5C2D91?style=flat-square&logo=microsoft&logoColor=ffffff" alt="VBA" />
+  <img src="https://img.shields.io/badge/IBM_Impromptu-0F172A?style=flat-square" alt="IBM Impromptu" />
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=ffffff" alt="Microsoft Access" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=ffffff" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0F172A?style=flat-square&logo=githubactions&logoColor=ffffff" alt="GitHub Actions" />
 </p>
 
 ## Detailed Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saeedzns&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" height="168" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedzns&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" height="168" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedzns&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" alt="Top languages" height="168" />
 </div>
 
 <div align="center">
@@ -82,16 +84,16 @@ I care about systems that are easy to extend, interfaces that are easy to use, a
 
 ## What I Value
 
-- Clean, readable code that scales with the project
+- Clean, readable analysis and code that scales with the project
 - Strong fundamentals instead of shortcuts
-- Product-first thinking backed by technical discipline
-- Performance, usability, and consistency
+- Practical results over flashy complexity
+- Performance, reproducibility, and clarity
 
 ## Experience Snapshot
 
-- Building software with a focus on maintainable structure and reliable delivery
-- Working across frontend experiences, backend services, and data-driven features
-- Keeping implementation practical, measurable, and aligned with real user needs
+- Data Analyst experience at Allianz Trade in reporting, automation, and support for business decision-making
+- Practical work across BI dashboards, reporting pipelines, and reusable analytics workflows
+- Interest in computer vision, Bayesian modeling, information retrieval, and applied ML demos
 
 ## Contact
 
@@ -103,6 +105,9 @@ If you'd like to connect, feel free to reach out through GitHub.
   </a>
   <a href="mailto:zns1992@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/saeed-zohoorian-631a80158/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
 </div>
 
