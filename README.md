@@ -39,40 +39,70 @@ I build reproducible data systems: BI automation, reporting pipelines, interacti
 ## Skills (quick view)
 <table width="100%">
   <tr>
-    <td width="25%"><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Python</span><img src="https://skillicons.dev/icons?i=python" width="18" alt="Python" /></div></td>
-    <td width="25%"><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>PyTorch</span><img src="https://skillicons.dev/icons?i=pytorch" width="18" alt="PyTorch" /></div></td>
-    <td width="25%"><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>TensorFlow</span><img src="https://skillicons.dev/icons?i=tensorflow" width="18" alt="TensorFlow" /></div></td>
-    <td width="25%"><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>scikit-learn</span><img src="https://skillicons.dev/icons?i=sklearn" width="18" alt="scikit-learn" /></div></td>
+    <td width="58%" align="left"><strong>Python, PyTorch, TensorFlow, scikit-learn</strong></td>
+    <td width="42%" align="right">
+      <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
+        <img src="https://skillicons.dev/icons?i=python" width="18" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=pytorch" width="18" alt="PyTorch" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="18" alt="TensorFlow" />
+        <img src="https://skillicons.dev/icons?i=sklearn" width="18" alt="scikit-learn" />
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>JAX</span><img src="https://skillicons.dev/icons?i=jax" width="18" alt="JAX" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>SQL</span><img src="https://skillicons.dev/icons?i=sqlite" width="18" alt="SQL" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>PostgreSQL</span><img src="https://skillicons.dev/icons?i=postgres" width="18" alt="PostgreSQL" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>PySpark</span><img src="https://skillicons.dev/icons?i=pyspark" width="18" alt="PySpark" /></div></td>
+    <td align="left"><strong>JAX, SQL, PostgreSQL, PySpark</strong></td>
+    <td align="right">
+      <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
+        <img src="https://skillicons.dev/icons?i=jax" width="18" alt="JAX" />
+        <img src="https://skillicons.dev/icons?i=sqlite" width="18" alt="SQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="18" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=pyspark" width="18" alt="PySpark" />
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Neo4j</span><img src="https://skillicons.dev/icons?i=neo4j" width="18" alt="Neo4j" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Power BI</span><img src="https://skillicons.dev/icons?i=powerbi" width="18" alt="Power BI" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Excel</span><img src="https://skillicons.dev/icons?i=excel" width="18" alt="Excel" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Streamlit</span><img src="https://skillicons.dev/icons?i=streamlit" width="18" alt="Streamlit" /></div></td>
+    <td align="left"><strong>Power BI, Streamlit, NumPy, Pandas</strong></td>
+    <td align="right">
+      <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
+        <img src="https://skillicons.dev/icons?i=powerbi" width="18" alt="Power BI" />
+        <img src="https://skillicons.dev/icons?i=streamlit" width="18" alt="Streamlit" />
+        <img src="https://skillicons.dev/icons?i=numpy" width="18" alt="NumPy" />
+        <img src="https://skillicons.dev/icons?i=pandas" width="18" alt="Pandas" />
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>OpenCV</span><img src="https://skillicons.dev/icons?i=opencv" width="18" alt="OpenCV" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Egocentric Vision</span><img src="https://skillicons.dev/icons?i=opencv" width="18" alt="Egocentric Vision" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Object Detection</span><img src="https://skillicons.dev/icons?i=opencv" width="18" alt="Object Detection" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>AWS</span><img src="https://skillicons.dev/icons?i=aws" width="18" alt="AWS" /></div></td>
+    <td align="left"><strong>OpenCV, Egocentric Vision, Object Detection, AWS</strong></td>
+    <td align="right">
+      <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
+        <img src="https://skillicons.dev/icons?i=opencv" width="18" alt="OpenCV" />
+        <img src="https://skillicons.dev/icons?i=opencv" width="18" alt="Egocentric Vision" />
+        <img src="https://skillicons.dev/icons?i=opencv" width="18" alt="Object Detection" />
+        <img src="https://skillicons.dev/icons?i=aws" width="18" alt="AWS" />
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Docker</span><img src="https://skillicons.dev/icons?i=docker" width="18" alt="Docker" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Git</span><img src="https://skillicons.dev/icons?i=git" width="18" alt="Git" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Hugging Face Spaces</span><img src="https://cdn.simpleicons.org/huggingface/FFDA4D" width="18" alt="Hugging Face Spaces" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>VBA</span><img src="https://skillicons.dev/icons?i=vscode" width="18" alt="VBA" /></div></td>
+    <td align="left"><strong>Docker, Git, Hugging Face Spaces, VBA</strong></td>
+    <td align="right">
+      <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
+        <img src="https://skillicons.dev/icons?i=docker" width="18" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=git" width="18" alt="Git" />
+        <img src="https://cdn.simpleicons.org/huggingface/FFDA4D" width="18" alt="Hugging Face Spaces" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="18" alt="VBA" />
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Keras</span><img src="https://skillicons.dev/icons?i=keras" width="18" alt="Keras" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>NumPy</span><img src="https://skillicons.dev/icons?i=numpy" width="18" alt="NumPy" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Pandas</span><img src="https://skillicons.dev/icons?i=pandas" width="18" alt="Pandas" /></div></td>
-    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>CNNs</span><img src="https://skillicons.dev/icons?i=pytorch" width="18" alt="CNNs" /></div></td>
+    <td align="left"><strong>Keras, CNNs, Neo4j, Excel</strong></td>
+    <td align="right">
+      <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
+        <img src="https://skillicons.dev/icons?i=keras" width="18" alt="Keras" />
+        <img src="https://skillicons.dev/icons?i=pytorch" width="18" alt="CNNs" />
+        <img src="https://skillicons.dev/icons?i=neo4j" width="18" alt="Neo4j" />
+        <img src="https://skillicons.dev/icons?i=excel" width="18" alt="Excel" />
+      </div>
+    </td>
   </tr>
 </table>
 
