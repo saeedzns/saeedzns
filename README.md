@@ -7,9 +7,9 @@
 </p>
 
 # Hi, I'm Saeed Zohoorian 👋
-Data Scientist · Applied ML & Computer Vision · MSc Data Science (Sapienza)
+Data Scientist · Applied ML & Computer Vision · Data Analytics · MSc Data Science (Sapienza)
 
-I build reproducible data systems: BI automation, reporting pipelines, interactive ML demos, and computer vision applications.
+I build reproducible data systems: BI automation, reporting pipelines, interactive ML demos, data analytics, and computer vision applications.
 
 ---
 
@@ -24,62 +24,57 @@ I build reproducible data systems: BI automation, reporting pipelines, interacti
 ## Highlights
 - Data Analyst at Allianz Trade — reduced reporting workload (~20%).
 - MSc Data Science (Sapienza) — Thesis: Ego4D-LiteSTA (egocentric interaction anticipation).
-- Focus: Computer Vision, Bayesian Modeling, Information Retrieval, BI Automation.
-
----
-
-## Skills (quick view)
-<table>
-  <tr><td align="left">Python</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Python" /></td></tr>
-  <tr><td align="left">PyTorch</td><td align="right"><img src="https://skillicons.dev/icons?i=pytorch" width="20" alt="PyTorch" /></td></tr>
-  <tr><td align="left">TensorFlow</td><td align="right"><img src="https://skillicons.dev/icons?i=tensorflow" width="20" alt="TensorFlow" /></td></tr>
-  <tr><td align="left">scikit-learn</td><td align="right"><img src="https://skillicons.dev/icons?i=sklearn" width="20" alt="scikit-learn" /></td></tr>
-  <tr><td align="left">JAX</td><td align="right"><img src="https://skillicons.dev/icons?i=jax" width="20" alt="JAX" /></td></tr>
-  <tr><td align="left">SQL</td><td align="right"><img src="https://skillicons.dev/icons?i=sqlite" width="20" alt="SQL" /></td></tr>
-  <tr><td align="left">PostgreSQL</td><td align="right"><img src="https://skillicons.dev/icons?i=postgres" width="20" alt="PostgreSQL" /></td></tr>
-  <tr><td align="left">PySpark</td><td align="right"><img src="https://skillicons.dev/icons?i=pyspark" width="20" alt="PySpark" /></td></tr>
-  <tr><td align="left">Neo4j</td><td align="right"><img src="https://skillicons.dev/icons?i=neo4j" width="20" alt="Neo4j" /></td></tr>
-  <tr><td align="left">Power BI</td><td align="right"><img src="https://skillicons.dev/icons?i=powerbi" width="20" alt="Power BI" /></td></tr>
-  <tr><td align="left">Excel</td><td align="right"><img src="https://skillicons.dev/icons?i=excel" width="20" alt="Excel" /></td></tr>
-  <tr><td align="left">VBA</td><td align="right"><img src="https://skillicons.dev/icons?i=vscode" width="20" alt="VBA" /></td></tr>
-  <tr><td align="left">Streamlit</td><td align="right"><img src="https://skillicons.dev/icons?i=streamlit" width="20" alt="Streamlit" /></td></tr>
-  <tr><td align="left">OpenCV</td><td align="right"><img src="https://skillicons.dev/icons?i=opencv" width="20" alt="OpenCV" /></td></tr>
-  <tr><td align="left">CNNs</td><td align="right"><img src="https://skillicons.dev/icons?i=pytorch" width="20" alt="CNNs" /></td></tr>
-  <tr><td align="left">Egocentric Vision</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Egocentric Vision" /></td></tr>
-  <tr><td align="left">Object Detection</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Object Detection" /></td></tr>
-  <tr><td align="left">Bayesian inference</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Bayesian inference" /></td></tr>
-  <tr><td align="left">ordinal regression</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="ordinal regression" /></td></tr>
-  <tr><td align="left">AWS</td><td align="right"><img src="https://skillicons.dev/icons?i=aws" width="20" alt="AWS" /></td></tr>
-  <tr><td align="left">Docker</td><td align="right"><img src="https://skillicons.dev/icons?i=docker" width="20" alt="Docker" /></td></tr>
-  <tr><td align="left">Git</td><td align="right"><img src="https://skillicons.dev/icons?i=git" width="20" alt="Git" /></td></tr>
-  <tr><td align="left">Hugging Face Spaces</td><td align="right"><img src="https://skillicons.dev/icons?i=huggingface" width="20" alt="Hugging Face Spaces" /></td></tr>
-  <tr><td align="left">Gradio</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Gradio" /></td></tr>
-</table>
+- Focus: Computer Vision, Bayesian Modeling, Information Retrieval, BI Automation, Data Analytics.
 
 ---
 
 ## Featured Projects
-- [Ego4D-LiteSTA](https://github.com/saeedzns/Ego4d-LiteSTA) — Egocentric interaction anticipation (PyTorch, Gradio demo)
+- [Ego4D-LiteSTA](https://github.com/saeedzns/Ego4d-LiteSTA) — Egocentric interaction anticipation (PyTorch, interactive demo)
 - [Bayesian-Ordinal-Regression-for-Obesity-Level-Prediction](https://github.com/saeedzns/Bayesian-Ordinal-Regression-for-Obesity-Level-Prediction) — Bayesian ordinal regression (Streamlit demo)
 - [Dialog-Autoregressive-Modeling-RNN](https://github.com/saeedzns/Dialog-Autoregressive-Modeling-RNN) — Character-level RNN (JAX)
 - [ADM_HW3 (Book Search Engine)](https://github.com/saeedzns/ADM_HW3) — Information retrieval demo (Streamlit)
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedzns&show_icons=true&theme=dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedzns&layout=compact&theme=dark" alt="Top languages" />
-</p>
-
----
-
-## Contact
-- Email: zns1992@gmail.com
-- LinkedIn: https://www.linkedin.com/in/saeed-zohoorian-631a80158/
+## Skills (quick view)
+<table width="100%">
+  <tr>
+    <td width="25%"><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Python</span><img src="https://skillicons.dev/icons?i=python" width="18" alt="Python" /></div></td>
+    <td width="25%"><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>PyTorch</span><img src="https://skillicons.dev/icons?i=pytorch" width="18" alt="PyTorch" /></div></td>
+    <td width="25%"><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>TensorFlow</span><img src="https://skillicons.dev/icons?i=tensorflow" width="18" alt="TensorFlow" /></div></td>
+    <td width="25%"><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>scikit-learn</span><img src="https://skillicons.dev/icons?i=sklearn" width="18" alt="scikit-learn" /></div></td>
+  </tr>
+  <tr>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>JAX</span><img src="https://skillicons.dev/icons?i=jax" width="18" alt="JAX" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>SQL</span><img src="https://skillicons.dev/icons?i=sqlite" width="18" alt="SQL" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>PostgreSQL</span><img src="https://skillicons.dev/icons?i=postgres" width="18" alt="PostgreSQL" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>PySpark</span><img src="https://skillicons.dev/icons?i=pyspark" width="18" alt="PySpark" /></div></td>
+  </tr>
+  <tr>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Neo4j</span><img src="https://skillicons.dev/icons?i=neo4j" width="18" alt="Neo4j" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Power BI</span><img src="https://skillicons.dev/icons?i=powerbi" width="18" alt="Power BI" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Excel</span><img src="https://skillicons.dev/icons?i=excel" width="18" alt="Excel" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Streamlit</span><img src="https://skillicons.dev/icons?i=streamlit" width="18" alt="Streamlit" /></div></td>
+  </tr>
+  <tr>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>OpenCV</span><img src="https://skillicons.dev/icons?i=opencv" width="18" alt="OpenCV" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Egocentric Vision</span><img src="https://skillicons.dev/icons?i=opencv" width="18" alt="Egocentric Vision" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Object Detection</span><img src="https://skillicons.dev/icons?i=opencv" width="18" alt="Object Detection" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>AWS</span><img src="https://skillicons.dev/icons?i=aws" width="18" alt="AWS" /></div></td>
+  </tr>
+  <tr>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Docker</span><img src="https://skillicons.dev/icons?i=docker" width="18" alt="Docker" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Git</span><img src="https://skillicons.dev/icons?i=git" width="18" alt="Git" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Hugging Face Spaces</span><img src="https://cdn.simpleicons.org/huggingface/FFDA4D" width="18" alt="Hugging Face Spaces" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>VBA</span><img src="https://skillicons.dev/icons?i=vscode" width="18" alt="VBA" /></div></td>
+  </tr>
+  <tr>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Keras</span><img src="https://skillicons.dev/icons?i=keras" width="18" alt="Keras" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>NumPy</span><img src="https://skillicons.dev/icons?i=numpy" width="18" alt="NumPy" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>Pandas</span><img src="https://skillicons.dev/icons?i=pandas" width="18" alt="Pandas" /></div></td>
+    <td><div style="display:flex;align-items:center;justify-content:flex-start;gap:6px;"><span>CNNs</span><img src="https://skillicons.dev/icons?i=pytorch" width="18" alt="CNNs" /></div></td>
+  </tr>
+</table>
 
 ---
 
