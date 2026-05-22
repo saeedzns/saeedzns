@@ -29,34 +29,32 @@ I build reproducible data systems: BI automation, reporting pipelines, interacti
 ---
 
 ## Skills (quick view)
-<div align="center" style="display:flex;flex-direction:column;gap:10px;max-width:760px;margin:0 auto;">
-  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Data Science & ML</span>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jax" width="150" alt="Data Science & ML icons" />
-  </div>
-  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Data Engineering</span>
-    <img src="https://skillicons.dev/icons?i=postgres,pyspark,neo4j,sqlite" width="150" alt="Data Engineering icons" />
-  </div>
-  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">BI & Automation</span>
-    <img src="https://skillicons.dev/icons?i=powerbi,excel,streamlit,git" width="150" alt="BI and Automation icons" />
-  </div>
-  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Computer Vision</span>
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,python" width="120" alt="Computer Vision icons" />
-  </div>
-  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Probabilistic Modeling</span>
-    <img src="https://skillicons.dev/icons?i=python,sklearn" width="105" alt="Probabilistic Modeling icons" />
-  </div>
-  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Tools & Cloud</span>
-    <img src="https://skillicons.dev/icons?i=aws,docker,github,git" width="145" alt="Tools and Cloud icons" />
-  </div>
-</div>
-
-<p align="center" style="margin-top:10px;color:#64748b;font-size:0.88rem;">Additional tools: Hugging Face Spaces, Gradio, VBA</p>
+<table>
+  <tr><td align="left">Python</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Python" /></td></tr>
+  <tr><td align="left">PyTorch</td><td align="right"><img src="https://skillicons.dev/icons?i=pytorch" width="20" alt="PyTorch" /></td></tr>
+  <tr><td align="left">TensorFlow</td><td align="right"><img src="https://skillicons.dev/icons?i=tensorflow" width="20" alt="TensorFlow" /></td></tr>
+  <tr><td align="left">scikit-learn</td><td align="right"><img src="https://skillicons.dev/icons?i=sklearn" width="20" alt="scikit-learn" /></td></tr>
+  <tr><td align="left">JAX</td><td align="right"><img src="https://skillicons.dev/icons?i=jax" width="20" alt="JAX" /></td></tr>
+  <tr><td align="left">SQL</td><td align="right"><img src="https://skillicons.dev/icons?i=sqlite" width="20" alt="SQL" /></td></tr>
+  <tr><td align="left">PostgreSQL</td><td align="right"><img src="https://skillicons.dev/icons?i=postgres" width="20" alt="PostgreSQL" /></td></tr>
+  <tr><td align="left">PySpark</td><td align="right"><img src="https://skillicons.dev/icons?i=pyspark" width="20" alt="PySpark" /></td></tr>
+  <tr><td align="left">Neo4j</td><td align="right"><img src="https://skillicons.dev/icons?i=neo4j" width="20" alt="Neo4j" /></td></tr>
+  <tr><td align="left">Power BI</td><td align="right"><img src="https://skillicons.dev/icons?i=powerbi" width="20" alt="Power BI" /></td></tr>
+  <tr><td align="left">Excel</td><td align="right"><img src="https://skillicons.dev/icons?i=excel" width="20" alt="Excel" /></td></tr>
+  <tr><td align="left">VBA</td><td align="right"><img src="https://skillicons.dev/icons?i=vscode" width="20" alt="VBA" /></td></tr>
+  <tr><td align="left">Streamlit</td><td align="right"><img src="https://skillicons.dev/icons?i=streamlit" width="20" alt="Streamlit" /></td></tr>
+  <tr><td align="left">OpenCV</td><td align="right"><img src="https://skillicons.dev/icons?i=opencv" width="20" alt="OpenCV" /></td></tr>
+  <tr><td align="left">CNNs</td><td align="right"><img src="https://skillicons.dev/icons?i=pytorch" width="20" alt="CNNs" /></td></tr>
+  <tr><td align="left">Egocentric Vision</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Egocentric Vision" /></td></tr>
+  <tr><td align="left">Object Detection</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Object Detection" /></td></tr>
+  <tr><td align="left">Bayesian inference</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Bayesian inference" /></td></tr>
+  <tr><td align="left">ordinal regression</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="ordinal regression" /></td></tr>
+  <tr><td align="left">AWS</td><td align="right"><img src="https://skillicons.dev/icons?i=aws" width="20" alt="AWS" /></td></tr>
+  <tr><td align="left">Docker</td><td align="right"><img src="https://skillicons.dev/icons?i=docker" width="20" alt="Docker" /></td></tr>
+  <tr><td align="left">Git</td><td align="right"><img src="https://skillicons.dev/icons?i=git" width="20" alt="Git" /></td></tr>
+  <tr><td align="left">Hugging Face Spaces</td><td align="right"><img src="https://skillicons.dev/icons?i=huggingface" width="20" alt="Hugging Face Spaces" /></td></tr>
+  <tr><td align="left">Gradio</td><td align="right"><img src="https://skillicons.dev/icons?i=python" width="20" alt="Gradio" /></td></tr>
+</table>
 
 ---
 
