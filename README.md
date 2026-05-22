@@ -39,7 +39,7 @@ I build reproducible data systems: BI automation, reporting pipelines, interacti
 ## Skills (quick view)
 <table width="100%">
   <tr>
-    <td width="58%" align="left"><strong>Python, PyTorch, TensorFlow, scikit-learn</strong></td>
+    <td width="58%" align="left"><strong>Python, PyTorch, Jax, TensorFlow, scikit-learn</strong></td>
     <td width="42%" align="right">
       <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
         <img src="https://skillicons.dev/icons?i=python" width="18" alt="Python" />
@@ -50,7 +50,7 @@ I build reproducible data systems: BI automation, reporting pipelines, interacti
     </td>
   </tr>
   <tr>
-    <td align="left"><strong>JAX, SQL, PostgreSQL, PySpark</strong></td>
+    <td align="left"><strong>SQL, PostgreSQL, PySpark</strong></td>
     <td align="right">
       <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
         <img src="https://skillicons.dev/icons?i=jax" width="18" alt="JAX" />
@@ -61,7 +61,7 @@ I build reproducible data systems: BI automation, reporting pipelines, interacti
     </td>
   </tr>
   <tr>
-    <td align="left"><strong>Power BI, Streamlit, NumPy, Pandas</strong></td>
+    <td align="left"><strong>Power BI, NumPy, Pandas, Excel, Access</strong></td>
     <td align="right">
       <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
         <img src="https://skillicons.dev/icons?i=powerbi" width="18" alt="Power BI" />
@@ -83,7 +83,7 @@ I build reproducible data systems: BI automation, reporting pipelines, interacti
     </td>
   </tr>
   <tr>
-    <td align="left"><strong>Docker, Git, Hugging Face Spaces, VBA</strong></td>
+    <td align="left"><strong>Docker, Git, Hugging Face Spaces, VBA, Streamlit</strong></td>
     <td align="right">
       <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
         <img src="https://skillicons.dev/icons?i=docker" width="18" alt="Docker" />
@@ -94,7 +94,7 @@ I build reproducible data systems: BI automation, reporting pipelines, interacti
     </td>
   </tr>
   <tr>
-    <td align="left"><strong>Keras, CNNs, Neo4j, Excel</strong></td>
+    <td align="left"><strong>Keras, CNNs, Neo4j</strong></td>
     <td align="right">
       <div style="display:flex;justify-content:flex-end;gap:10px;flex-wrap:nowrap;">
         <img src="https://skillicons.dev/icons?i=keras" width="18" alt="Keras" />
