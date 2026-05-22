@@ -29,34 +29,29 @@ I build reproducible data systems: BI automation, reporting pipelines, interacti
 ---
 
 ## Skills (quick view)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jax" width="240" alt="ML icons" />
-</p>
-
-### Core areas
-<div align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;max-width:980px;margin:0 auto;">
-  <div style="min-width:150px;padding:10px 12px;border-radius:16px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <div style="font-size:0.78rem;font-weight:700;color:#94a3b8;margin-bottom:6px;">Data Science & ML</div>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jax" width="165" alt="Data Science & ML icons" />
+<div align="center" style="display:flex;flex-direction:column;gap:10px;max-width:760px;margin:0 auto;">
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
+    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Data Science & ML</span>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jax" width="150" alt="Data Science & ML icons" />
   </div>
-  <div style="min-width:150px;padding:10px 12px;border-radius:16px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <div style="font-size:0.78rem;font-weight:700;color:#94a3b8;margin-bottom:6px;">Data Engineering</div>
-    <img src="https://skillicons.dev/icons?i=postgres,spark,neo4j,sqlite" width="145" alt="Data Engineering icons" />
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
+    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Data Engineering</span>
+    <img src="https://skillicons.dev/icons?i=postgres,pyspark,neo4j,sqlite" width="150" alt="Data Engineering icons" />
   </div>
-  <div style="min-width:150px;padding:10px 12px;border-radius:16px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <div style="font-size:0.78rem;font-weight:700;color:#94a3b8;margin-bottom:6px;">BI & Automation</div>
-    <img src="https://skillicons.dev/icons?i=powerbi,excel,streamlit,git" width="145" alt="BI and Automation icons" />
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
+    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">BI & Automation</span>
+    <img src="https://skillicons.dev/icons?i=powerbi,excel,streamlit,git" width="150" alt="BI and Automation icons" />
   </div>
-  <div style="min-width:150px;padding:10px 12px;border-radius:16px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <div style="font-size:0.78rem;font-weight:700;color:#94a3b8;margin-bottom:6px;">Computer Vision</div>
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,python" width="125" alt="Computer Vision icons" />
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
+    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Computer Vision</span>
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,python" width="120" alt="Computer Vision icons" />
   </div>
-  <div style="min-width:150px;padding:10px 12px;border-radius:16px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <div style="font-size:0.78rem;font-weight:700;color:#94a3b8;margin-bottom:6px;">Probabilistic Modeling</div>
-    <img src="https://skillicons.dev/icons?i=python,sklearn" width="115" alt="Probabilistic Modeling icons" />
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
+    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Probabilistic Modeling</span>
+    <img src="https://skillicons.dev/icons?i=python,sklearn" width="105" alt="Probabilistic Modeling icons" />
   </div>
-  <div style="min-width:150px;padding:10px 12px;border-radius:16px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
-    <div style="font-size:0.78rem;font-weight:700;color:#94a3b8;margin-bottom:6px;">Tools & Cloud</div>
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 12px;border-radius:14px;background:#0b1220;border:1px solid rgba(148,163,184,0.10);">
+    <span style="font-weight:700;color:#e2e8f0;white-space:nowrap;">Tools & Cloud</span>
     <img src="https://skillicons.dev/icons?i=aws,docker,github,git" width="145" alt="Tools and Cloud icons" />
   </div>
 </div>
