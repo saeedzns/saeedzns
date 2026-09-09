@@ -22,6 +22,7 @@ I build reproducible data and machine learning projects across computer vision, 
 - MSc Data Science, Sapienza University of Rome.
 - MSc thesis: **Ego4D-LiteSTA**, focused on lightweight egocentric interaction anticipation.
 - Current technical focus: **Machine Learning, Computer Vision, Bayesian Modeling, and Analytics Automation**.
+- Winner — **Image Classification** with Real World Data Distributions, **Leonardo Labs** / Sapienza.
 
 ---
 
