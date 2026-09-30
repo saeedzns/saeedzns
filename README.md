@@ -2,9 +2,9 @@
 
 # Hi, I'm Saeed Zohoorian 👋
 
-**Data Scientist | Machine Learning & Computer Vision | Python · PyTorch · SQL**
+**Data Scientist | ML Engineering | Data Analytics | Python · SQL**
 
-I build reproducible data and machine learning projects across computer vision, statistical modeling, analytics automation, and interactive ML applications. I also bring professional experience in business data analysis and reporting automation at Allianz Trade.
+I build reproducible machine learning and data projects from ingestion and modeling through serving, monitoring, and business-facing analytics. My work spans ML engineering, computer vision, statistical modeling, Power BI, and one year of professional data-analysis experience at Allianz Trade.
 
 ---
 
@@ -18,29 +18,30 @@ I build reproducible data and machine learning projects across computer vision, 
 
 ## Highlights
 
-- Data Analyst at Allianz Trade — reduced recurring reporting workload by approximately 20%.
-- MSc Data Science, Sapienza University of Rome.
-- MSc thesis: **Ego4D-LiteSTA**, focused on lightweight egocentric interaction anticipation.
-- Current technical focus: **Machine Learning, Computer Vision, Bayesian Modeling, and Analytics Automation**.
-- Winner — **Image Classification** with Real World Data Distributions, **Leonardo Labs** / Sapienza.
+- Built **RiskML**, an end-to-end credit-risk ML platform using PostgreSQL, XGBoost, MLflow, FastAPI, SHAP, Docker, Airflow, GitHub Actions, and Power BI; the clean-room container workflow is independently verified.
+- MSc Data Science, Sapienza University of Rome; thesis project **Ego4D-LiteSTA** achieved 67.8% Recall@6 and a 42% inference-latency reduction while retaining 99.9% of baseline accuracy.
+- One year of professional Data Analyst experience at Allianz Trade using SQL, Python, Power BI, VBA, and reporting automation.
+- Built a Bayesian ordinal-regression analysis with 94.9% accuracy, Brier score 0.0837, MCMC diagnostics, and WAIC/PSIS-LOO comparison.
+- Winner — **Image Classification with Real World Data Distributions**, Leonardo Labs / Sapienza.
 
 ---
 
 ## Featured Projects
 
-- [Ego4D-LiteSTA](https://github.com/saeedzns/Ego4d-LiteSTA) — Lightweight egocentric interaction anticipation with PyTorch and an interactive demo.
-- [Bayesian Ordinal Regression for Obesity Level Prediction](https://github.com/saeedzns/Bayesian-Ordinal-Regression-for-Obesity-Level-Prediction) — Bayesian and frequentist ordinal regression with calibration and model-comparison analysis.
-- [Dialog Autoregressive Modeling RNN](https://github.com/saeedzns/Dialog-Autoregressive-Modeling-RNN) — Character-level autoregressive language modeling implemented in JAX.
+- [**RiskML Platform**](https://github.com/saeedzns/riskml-platform) — SQL-first credit-risk ML platform with PostgreSQL, Logistic Regression/XGBoost, MLflow, FastAPI + SHAP, offline drift checks, Docker/Airflow/CI, and a three-page Power BI presentation.
+- [**Ego4D-LiteSTA**](https://github.com/saeedzns/Ego4d-LiteSTA) — Lightweight egocentric interaction-anticipation pipeline with PyTorch, YOLOv8, controlled backbone ablations, and inference optimization.
+- [**Bayesian Ordinal Regression for Obesity Level Prediction**](https://github.com/saeedzns/Bayesian-Ordinal-Regression-for-Obesity-Level-Prediction) — Bayesian and frequentist ordinal regression with calibration, MCMC diagnostics, and model-comparison analysis.
 
 ---
 
 ## Skills
 
-- **Programming & ML:** Python, PyTorch, TensorFlow, JAX, scikit-learn
-- **Data:** SQL, PostgreSQL, Pandas, NumPy
+- **Programming & Data:** Python, SQL, PostgreSQL, Pandas, NumPy
+- **Machine Learning:** scikit-learn, XGBoost, PyTorch, TensorFlow, JAX, Bayesian Modeling
+- **ML Engineering:** MLflow, FastAPI, SHAP, Docker, Airflow, GitHub Actions, pytest
 - **Computer Vision:** OpenCV, YOLOv8, Object Detection, Egocentric Vision
-- **Analytics:** Power BI, Excel, VBA, Microsoft Access
-- **Tools & Deployment Exposure:** Git, GitHub, Docker, AWS, Streamlit, Hugging Face Spaces
+- **Analytics & BI:** Power BI, DAX, Power Query, Excel, VBA
+- **Cloud / Deployment Exposure:** Azure Bicep, AWS, Streamlit, Hugging Face Spaces
 
 ---
 
